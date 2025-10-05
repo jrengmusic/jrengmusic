@@ -2,7 +2,7 @@ JRENG! is the stage name and creative identity of — a musician, DSP aficionado
 
 🎸 On stage, JRENG! is a sonic strike: experimental rock and electronic textures delivered with the same precision as a power chord. 
 
-💻 In code, JRENG! is an architect of sound tools: designing modular DSP filters, intuitive UIs, and reproducible workflows that empower creators.
+💻 In code, JRENG! is an architect of sound arsenal: designing modular DSP filters, intuitive UIs, and reproducible workflows that empower creators.
 
 📫 How to spam me: bayu@kuassa.com
 
